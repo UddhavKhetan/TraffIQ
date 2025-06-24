@@ -13,3 +13,5 @@ reducing wait times and congestion. The automated lighting feature uses LDR sens
 ambient light, minimizing energy consumption while maintaining optimal visibility. Our real-time traffic violation detection system, 
 powered by the OV7670 camera module, immediately identifies wrong-way vehicles, enhancing road safety and enabling swift 
 response from authorities.
+
+The OV7670 module code was integrated using the Circuit Journal article by Indrek Luuk
